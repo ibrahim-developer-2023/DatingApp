@@ -478,3 +478,6 @@ $RECYCLE.BIN/
 API/appsettings.json
 .editorconfig
 
+API/datingapp.db-shm
+API/datingapp.db-shm
+API/datingapp.db-wal
